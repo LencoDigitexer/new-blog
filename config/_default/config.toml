@@ -1,11 +1,11 @@
 # Change baseurl before deploy
 baseurl      = "https://lencodigitexer.ru/new-blog"
-languageCode = "en-us"
-title        = "Hugo Theme Stack Starter"
+languageCode = "ru-RU"
+title = "Личный блог | LencoDigitexer"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
-defaultContentLanguage = "en"
+defaultContentLanguage = "ru"
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
