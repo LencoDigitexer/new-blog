@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl      = "https://lencodigitexer.ru/new-blog"
+baseurl      = "https://lencodigitexer.ru/"
 languageCode = "ru-RU"
 title = "Личный блог | LencoDigitexer"
 
